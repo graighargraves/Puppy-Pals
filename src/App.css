@@ -40,3 +40,14 @@
 .read-the-docs {
   color: #888;
 }
+
+.featuredPup {
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+  background-color: darkblue;
+  border-radius: 8px;
+  display: inline-block;
+}
